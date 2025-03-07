@@ -1,4 +1,4 @@
-const PLATFORM = "PeerTube";
+const PLATFORM = "SouthPark DE";
 
 var config = {};
 
